@@ -3,7 +3,7 @@
     "repoName": "DOOM SHOP Repo",
     "repoIcon": "https://pbs.twimg.com/profile_images/955406938879221760/WHywzUW4_400x400.jpg"
   },
-  "Filza": [
+  "Tweaked Apps": [
     {
       "name": "[BROKEN]FilzaEscaped 3.5",
       "version": "3.5.0",
@@ -55,10 +55,8 @@
       "category": "Filza",
       "bundleID": "com.tigisoftware.Filza",
       "appstore": "com.tigisoftware.Filza",
-    }
-  ],
-  "Misc": [
-    {
+    },
+	{
       "name": "DebToIPA",
       "version": "8.6.42",
       "down": "https://github.com/sourcelocation/DebToIPA/releases/download/1.1.1/DebToIPA-1.1.1.ipa",
@@ -67,5 +65,14 @@
       "bundleID": "net.sourceloc.DebToIPA",
       "appstore": "net.sourceloc.DebToIPA",
     },
+    {
+      "name": "DebToIPA",
+      "version": "8.6.42",
+      "down": "https://github.com/sourcelocation/DebToIPA/releases/download/1.1.1/DebToIPA-1.1.1.ipa",
+      "category": "Misc Apps",
+      "description": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, etc.",
+      "bundleID": "net.sourceloc.DebToIPA",
+      "appstore": "net.sourceloc.DebToIPA",
+    }
   ]
 }
