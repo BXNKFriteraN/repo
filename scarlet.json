@@ -5,7 +5,7 @@
   },
   "Tweaked Apps": [
     {
-      "name": "[BROKEN]FilzaEscaped 3.5",
+      "name": "[BROKEN]FilzaEscaped_3.5",
       "version": "3.5.0",
       "down": "https://filzadownload.com/files/filza.ipa",
       "category": "Filza",
@@ -14,7 +14,7 @@
       "appstore": "com.tigisoftware.Filza"
     },
 	{
-      "name": "PlankFilza 3.8",
+      "name": "PlankFilza_3.8",
       "version": "3.8.0",
       "down": "https://file.ipaomtk.com/ipa/PlankFilza14.ipa",
       "category": "Filza",
@@ -23,16 +23,7 @@
       "appstore": "com.tigisoftware.Filza"
     },
 	{
-      "name": "FilzaEscaped",
-      "version": "3.9.0",
-      "down": "https://raw.githubusercontent.com/baziex/TrollStoreApps/main/TrollStoreApps/FilzaTS_BZ.ipa",
-      "category": "Filza",
-      "description": "",
-      "bundleID": "com.tigisoftware.Filza",
-      "appstore": "com.tigisoftware.Filza"
-    },
-	{
-      "name": "FilzaEscaped 3.9",
+      "name": "FilzaEscaped_3.9",
       "version": "3.9.0",
       "down": "https://raw.githubusercontent.com/baziex/TrollStoreApps/main/TrollStoreApps/FilzaTS_BZ.ipa",
       "category": "Filza",
@@ -41,7 +32,7 @@
       "appstore": "com.tigisoftware.Filza"
     },
   {
-      "name": "FilzaEscaped 3.9.8",
+      "name": "FilzaEscaped_3.9.8",
       "version": "3.9.8",
       "down": "https://tigisoftware.com/download/Filza_3.9.8.ipa",
       "category": "Filza",
@@ -49,7 +40,7 @@
       "appstore": "com.tigisoftware.Filza"
     },
   {
-      "name": "FilzaEscaped 4.0",
+      "name": "FilzaEscaped_4.0",
       "version": "4.0.0",
       "down": "https://tigisoftware.com/download/Filza_4.0.0.ipa",
       "category": "Filza",
@@ -57,17 +48,8 @@
       "appstore": "com.tigisoftware.Filza"
     },
   {
-      "name": "DebToIPA",
-      "version": "8.6.42",
-      "down": "https://github.com/sourcelocation/DebToIPA/releases/download/1.1.1/DebToIPA-1.1.1.ipa",
-      "category": "Misc Apps",
-      "description": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, etc.",
-      "bundleID": "net.sourceloc.DebToIPA",
-      "appstore": "net.sourceloc.DebToIPA"
-    },
-  {
-      "name": "DebToIPA",
-      "version": "8.6.42",
+      "name": "DebToIPA_1.1.1_8.6.42",
+      "version": "1.1.1_8.6.42",
       "down": "https://github.com/sourcelocation/DebToIPA/releases/download/1.1.1/DebToIPA-1.1.1.ipa",
       "category": "Misc Apps",
       "description": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, etc.",
