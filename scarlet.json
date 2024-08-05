@@ -9,7 +9,7 @@
       "version": "3.5.0",
       "down": "https://filzadownload.com/files/filza.ipa",
       "category": "Filza",
-      "description": "",
+      "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor…",
       "bundleID": "com.dry05.filzaescaped11-12",
       "appstore": "com.tigisoftware.Filza"
     },
@@ -18,7 +18,7 @@
       "version": "3.8.0",
       "down": "https://file.ipaomtk.com/ipa/PlankFilza14.ipa",
       "category": "Filza",
-      "description": "",
+      "description": "PlankFilza is Filza, but it doesnt require a Jailbreak.",
       "bundleID": "com.i3rby.dc03ea7b407fdc2c",
       "appstore": "com.tigisoftware.Filza"
     },
@@ -27,7 +27,7 @@
       "version": "3.9.0",
       "down": "https://raw.githubusercontent.com/baziex/TrollStoreApps/main/TrollStoreApps/FilzaTS_BZ.ipa",
       "category": "Filza",
-      "description": "",
+      "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor…",
       "bundleID": "com.tigisoftware.Filza",
       "appstore": "com.tigisoftware.Filza"
     },
@@ -36,6 +36,7 @@
       "version": "3.9.8",
       "down": "https://tigisoftware.com/download/Filza_3.9.8.ipa",
       "category": "Filza",
+      "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor…",
       "bundleID": "com.tigisoftware.Filza",
       "appstore": "com.tigisoftware.Filza"
     },
@@ -44,6 +45,7 @@
       "version": "4.0.0",
       "down": "https://tigisoftware.com/download/Filza_4.0.0.ipa",
       "category": "Filza",
+      "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor…",
       "bundleID": "com.tigisoftware.Filza",
       "appstore": "com.tigisoftware.Filza"
     },
